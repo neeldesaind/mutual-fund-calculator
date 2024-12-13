@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/yourusername/investment-calculators.git
+git clone https://github.com/neeldesaind/mutual-fund-calculator.git
 ```
 
 2. **Navigate to the project directory**:
@@ -79,7 +79,10 @@ cd investment-calculators
 
 ## Screenshots
 
-Include any screenshots here if needed.
+![image](https://github.com/user-attachments/assets/84ee941d-fd90-494e-9adc-88102fa6b507)
+![image](https://github.com/user-attachments/assets/cb23e179-210a-45d1-8537-1dda2558a1f9)
+![image](https://github.com/user-attachments/assets/4b207092-02d2-4bcb-b4d5-fc5f4c47e622)
+
 
 ## Contributing
 
